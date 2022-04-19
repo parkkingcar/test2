@@ -1,0 +1,21 @@
+.q3 {
+  /* border: solid 2px; */
+  margin-top: 3%;
+  font-size: 35px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  align-items: center;
+  font-family: 'Do Hyeon', sans-serif, Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  text-shadow: 2px 2px 4px gray;
+}
+.form {
+  display: flex;
+  justify-content: center;
+  /* border: solid 2px; */
+}
+.question {
+  margin-top: 7%;
+  font-size: 20px;
+  text-align: left;
+}

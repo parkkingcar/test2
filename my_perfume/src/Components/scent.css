@@ -1,0 +1,73 @@
+.scent_outer {
+  display: flex;
+  justify-content: center;
+  /* border: solid 2px; */
+}
+.scent_inner {
+  width: 80%;
+  /* border: solid 2px; */
+  justify-content: center;
+}
+.q2 {
+  /* border: solid 2px; */
+  margin-top: 3%;
+  font-size: 35px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  align-items: center;
+  font-family: 'Do Hyeon', sans-serif, Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  text-shadow: 2px 2px 4px gray;
+}
+.content_1 {
+  font-family: 'Do Hyeon', sans-serif;
+  margin-top: 2%;
+  display: flex;
+  justify-content: space-evenly;
+  /* border: solid 2px; */
+  padding-top: 30px;
+}
+.content_2 {
+  font-family: 'Do Hyeon', sans-serif;
+  display: flex;
+  padding-top: 30px;
+  justify-content: space-evenly;
+  /* border: solid 2px; */
+}
+.woody {
+  /* border: solid 2px; */
+  width: 200px;
+  height: 250px;
+}
+.floral {
+  width: 200px;
+  height: 250px;
+}
+.arabian {
+  width: 200px;
+  height: 250px;
+}
+.oriental {
+  width: 200px;
+  height: 250px;
+}
+.fruity {
+  width: 200px;
+  height: 250px;
+}
+.fresh {
+  width: 200px;
+  height: 250px;
+}
+.citrus {
+  width: 200px;
+  height: 250px;
+}
+.musk {
+  width: 200px;
+  height: 250px;
+}
+.pb {
+  display: flex;
+  justify-content: center;
+}

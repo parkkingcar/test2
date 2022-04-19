@@ -1,0 +1,44 @@
+.result_img {
+  /* border: solid 2px; */
+  width: 400px;
+  height: 400px;
+  margin-left: 60px;
+  padding-top: 20px;
+}
+
+.result_all {
+  /* border: solid 2px; */
+  display: flex;
+  justify-content: center;
+  margin-top: 7%;
+}
+
+.im {
+  width: 500px;
+  text-align: left;
+  /* border: solid 2px; */
+
+  font-size: 15px;
+  margin-right: 60px;
+}
+.result {
+  /* border: solid 2px; */
+  margin-top: 3%;
+  font-size: 35px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  align-items: center;
+  font-family: 'Do Hyeon', sans-serif, Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: bolder;
+  text-shadow: 2px 2px 4px gray;
+}
+.result_outer {
+  display: flex;
+  justify-content: center;
+  /* border: solid 2px; */
+}
+.result_inner {
+  width: 80%;
+  /* border: solid 2px; */
+  justify-content: center;
+}
